@@ -1,1 +1,1 @@
-global.coins+=19932611
+global.coins=19932611

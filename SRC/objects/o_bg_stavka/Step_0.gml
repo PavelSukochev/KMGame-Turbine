@@ -12,7 +12,7 @@ if !(global.start)
 					keyboard_string = string_copy(keyboard_string, 1, length);
 				
 		    }
-		global.stavka = keyboard_string; //TODO убрать символы
+		global.stavka = keyboard_string;
 	}else{
 		image_alpha = 1
 		image_blend = -1

@@ -2,7 +2,7 @@ if !(global.start)
 {
 	if (global.insert_coin)
 	{
-		//if (global.coins>=global.stavka && !global.stavka<=0 && !(is_string(global.stavka)) ) //TODO стринги!!!
+		//if (global.coins>=global.stavka && !global.stavka<=0 && !(is_string(global.stavka)) ) // стринги!!!
 		if (global.coins>=global.stavka && !global.stavka<=0 )
 		{
 			global.kush="";

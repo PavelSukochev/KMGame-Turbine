@@ -1,5 +1,3 @@
-// Script assets have changed for v2.3.0 see
-// https://help.yoyogames.com/hc/en-us/articles/360005277377 for more information
 function ginit(){
 global.vibro=0 //вибрация турбины
 global.insert_coin=0 //выбрана ли ячейка ставки
