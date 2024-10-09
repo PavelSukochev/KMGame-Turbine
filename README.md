@@ -1,4 +1,4 @@
-Оффлайн руелетка из игры Край мира (KMgame)
+Оффлайн рулетка из игры Край мира (KMgame)
 
 Иллюстрация к проекту
 ![Иллюстрация к проекту](https://pavelsukochev.github.io/KMGame-Turbine/img/Screenshot_1.png)
