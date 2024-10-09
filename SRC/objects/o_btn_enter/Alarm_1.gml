@@ -1,0 +1,1 @@
+global.vibro=0;
